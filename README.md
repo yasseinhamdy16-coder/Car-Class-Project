@@ -26,11 +26,6 @@ NEED
 
 C++ compiler like g++
 
-BUILD
-g++ main.cpp car.cpp -o car_program
-
-RUN
-./car_program
 
 EXAMPLE
 Enter car make: Toyota
