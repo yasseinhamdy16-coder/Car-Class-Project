@@ -17,14 +17,20 @@ Show car info and speed
 Easy menu to use in the console
 
 PROJECT FILES
-car.cpp      - Car code
-car.h        - Car header
-main.cpp     - Main program
 
-HOW TO RUN
-NEED
 
-C++ compiler like g++
+1.car.cpp      
+- Car code
+
+2. car.h
+- Car header
+
+- 
+3.main.cpp
+  - Main program
+
+
+
 
 
 EXAMPLE
